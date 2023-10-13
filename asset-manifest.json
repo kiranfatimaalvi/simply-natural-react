@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.85f99989.css",
-    "main.js": "/static/js/main.a93b48f6.js",
-    "static/media/CTA-bg.jpg": "/static/media/CTA-bg.2ce118a6ec8e7e0b3730.jpg",
-    "static/media/img1.jpg": "/static/media/img1.d67f90f4e8af1dcc5cc4.jpg",
-    "index.html": "/index.html",
-    "main.85f99989.css.map": "/static/css/main.85f99989.css.map",
-    "main.a93b48f6.js.map": "/static/js/main.a93b48f6.js.map"
+    "main.css": "/SimplyNatural/static/css/main.e8061671.css",
+    "main.js": "/SimplyNatural/static/js/main.a93b48f6.js",
+    "static/media/CTA-bg.jpg": "/SimplyNatural/static/media/CTA-bg.2ce118a6ec8e7e0b3730.jpg",
+    "static/media/img1.jpg": "/SimplyNatural/static/media/img1.d67f90f4e8af1dcc5cc4.jpg",
+    "index.html": "/SimplyNatural/index.html",
+    "main.e8061671.css.map": "/SimplyNatural/static/css/main.e8061671.css.map",
+    "main.a93b48f6.js.map": "/SimplyNatural/static/js/main.a93b48f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.85f99989.css",
+    "static/css/main.e8061671.css",
     "static/js/main.a93b48f6.js"
   ]
 }
