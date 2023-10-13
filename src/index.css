@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    width: 100%;
+    background-color: #5D6167;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    background-image: url(../public/images/img1.jpg);
+    background-size: 100% 162%;
+    background-position: 0 -205px;
+}
+main nav{
+    height: 10vh;
+    margin: 0 auto;
+}
+nav ul .dropdown{
+    position: absolute;
+    top: 10vh;
+    border-top: 2px solid #ff0000;
+    visibility: hidden;
+}
+li{
+    color: #5D6167;   
+}
+li:hover{
+    color: red;
+    transition-duration: .2s;
+}
+.storeli:hover .dropdown{
+    visibility: visible;
+    transition-duration: 1s;
+}
+::selection{
+    color: black;
+    background-color: orangered;
+}
+.heading{
+    font-weight: 500;
+    padding: 10px 40px 0px 32px;
+}
+.heading p{
+    letter-spacing:.5px;
+}
+.heading h1{
+    padding-top: 15px;
+    letter-spacing: 1px;
+    line-height: 1.2;
+    font-family: poppins,sans-serif;
+    font-weight: 500;
+}
+main .heading button{
+    background-color: #E85D5D;
+    font-size: 12px;
+    padding: 14px 32px;
+    color: white;
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin-top: 4vh;
+    border-radius: 25px;
+    transition-duration: .3s;
+}
+main .heading button:hover{
+    background-color: #75C32C;
+}
+
+
+.collection:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.lastfeature .help:hover{
+    color: grey;
+}
+
+.section4 .main img{
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.section5 button{
+    background-color: #E85D5D;
+}
+.section5 button:hover{
+    background-color: #75C32C;
+    transition-duration: .2s;
+}
+.section5{
+    background-image: url(../public/images/CTA-bg.jpg);
+    background-size: 100% 142%;
+    transition-duration: .2s;
+    background-position: 0 -320px;
+}
+.lasticons i{
+    transition-duration: .2s;
+    background-color: #5D6167;
+}
+.lasticons i:hover{
+    background-color: #75C32C;
+    transition-duration: .2s;
+}
+footer{
+    color: #5D6167;
+    transition-duration: .2s;
+}
+footer
+.seclast p:hover{
+    color: #75C32C;
+    transition-duration: .2s;
+}
